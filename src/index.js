@@ -6,6 +6,7 @@ const startButton = document.querySelector('#start');
 const score = document.querySelector('score'); // Use querySelector() to get the score element
 const timerDisplay = document.querySelector('#timer'); // use querySelector() to get the timer element.
 
+
 let time = 0;
 let timer;
 let lastHole = 0;
@@ -152,8 +153,8 @@ function toggleVisibility(hole){
 *
 */
 function updateScore() {
-  // TODO: Write your code here
-
+  points++;
+  score.textContent = points;
   return points;
 }
 
@@ -165,9 +166,8 @@ function updateScore() {
 *
 */
 function clearScore() {
-  // TODO: Write your code here
-  // points = 0;
-  // score.textContent = points;
+  points = 0;
+  score.textContent = points;
   return points;
 }
 
@@ -203,9 +203,10 @@ function startTimer() {
 * the moles.
 *
 */
+//https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
 function whack(event) {
-  // TODO: Write your code here.
-  // call updateScore()
+
+  updateScore()
   return points;
 }
 
@@ -260,12 +261,12 @@ function stopGame(){
  * Note: Simply uncommenting `setDuration(10);` and `showUp();` is not enough. To make the game work, ensure all necessary functions listed above are called to initialize the score, timer, event listeners, and mole appearances. 
 */
 function startGame(){
-  //clearScore();
-  //stopGame();   //optional
-  //setDuration(10);
-  //setEventListeners();
-  //startTimer();
-  //showUp();
+  clearScore();
+  stopGame();   //optional
+  setDuration(10);
+  setEventListeners();
+  startTimer();
+  showUp();
   return "game started";
 }
 
