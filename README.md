@@ -17,7 +17,7 @@ This was a fun final project. I was very overwhelmed at first, but after full re
 # Running Screenshots
 
 US-01
-![US-01](screenshots\US-01.png)
+![US-01](https://github.com/Firewall-404/Whack-a-Mole/blob/main/screenshots/US-01.png?raw=true)
 
 # Commit history
 
