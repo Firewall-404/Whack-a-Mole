@@ -1,6 +1,6 @@
 html {
   /*background: url('./assets/background.png') no-repeat center center fixed;*/
-  background: url('https://github.com/Firewall-404/js-dev-final-capstone-starter-whack-a-mole/blob/main/assets/farmland.png?raw=true') no-repeat center center fixed;
+  background: url("farmland.png");
   box-sizing: border-box;
   -webkit-background-size: cover;
   -moz-background-size: cover;
