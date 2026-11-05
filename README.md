@@ -46,6 +46,10 @@ US-06
 
 # Commit history
 
+Pasted from git log
+
+![gitLogScreenshot](https://github.com/Firewall-404/Whack-a-Mole/blob/main/screenshots/gitLog.png?raw=true)
+
 janse@GameMachine MINGW64 ~/Downloads/js-dev-final-capstone-starter-whack-a-mole (main)
 $ git log
 commit e05c2e7c2dc92266a81d62f2bbb2de83aae2f0ec (HEAD -> main, origin/main, origin/HEAD)
