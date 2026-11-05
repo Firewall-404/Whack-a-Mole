@@ -6,6 +6,100 @@ The game designers have asked you to come up with a computer version of this gam
 
 ![whackamole](https://github.com/gabrielsanchez/erddiagram/blob/main/whackamole.gif?raw=true)
 
+## Student Notes and Thoughts
+
+I chose to develop Whack-a-Mole because it is an arcade classic!
+
+The instructions laid out for this project were perfect to follow along and develop this project. The algorithms and functions were easy to find looking at the linked documentation and in past Chegg assignments. By using the instructions as a check list, I was able to efficently get this project finish.
+
+# Challenges
+
+I had to do extra research for the event listeners as it was the hardest concept for me to understand. I also struggled to add audio to my project using my own file, so I opted to not use it, as I typically play games with no noise anyways. My VScode was also giving me issues, but I got it updated to the right version.
+
+# Summary
+
+This was a fun final project. I was very overwhelmed at first, but after full reading through the instructions I was able to get started. My project utilizes skills I have learned in this course to create a mini-game. 
+
+# Commit history
+
+I was having issues with my integrated browser as well as deploying my page, so my commit history is long.
+
+Commits on Nov 4, 2026
+Finishing majority of html guided by user story
+
+@Firewall-404
+Firewall-404 committed 5 hours ago
+save progress in js file
+
+@Firewall-404
+Firewall-404 committed 4 hours ago
+Commiting due to progress and reccommendation in README instructions
+
+@Firewall-404
+Firewall-404 committed 4 hours ago
+saving point verifying event listeners before starting US-05
+
+@Firewall-404
+Firewall-404 committed 3 hours ago
+updating while debugging button
+
+@Firewall-404
+Firewall-404 committed 3 hours ago
+changing size to continue testing
+
+@Firewall-404
+Firewall-404 committed 2 hours ago
+stuck in deployment queue status
+
+@Firewall-404
+Firewall-404 committed 2 hours ago
+adding sound to test
+
+@Firewall-404
+Firewall-404 committed 2 hours ago
+testing audio again
+
+@Firewall-404
+Firewall-404 committed 2 hours ago
+testing audio
+
+@Firewall-404
+Firewall-404 committed 2 hours ago
+new audio
+
+@Firewall-404
+Firewall-404 committed 2 hours ago
+new audio
+
+@Firewall-404
+Firewall-404 committed 1 hour ago
+Commits on Nov 5, 2026
+new audio
+
+@Firewall-404
+Firewall-404 committed 1 hour ago
+audio
+
+@Firewall-404
+Firewall-404 committed 1 hour ago
+audio replacing
+
+@Firewall-404
+Firewall-404 committed 1 hour ago
+adding images
+
+@Firewall-404
+Firewall-404 committed 43 minutes ago
+image testing
+
+@Firewall-404
+Firewall-404 committed 37 minutes ago
+image testing
+
+@Firewall-404
+Firewall-404 committed 33 minutes ago
+adding button fix and images
+
 ## Steps to complete
 
 To complete this project, you must do the following:
