@@ -28,8 +28,6 @@ h2 {
 #start {
     text-align: center;
     font-size: 30px;
-    display: flex;
-    justify-content: center;
 }
 
 #timer{
@@ -80,5 +78,5 @@ h2 {
 
 .hole.show .mole {
   top: 0;
-  /*transform: scale(1.1);*/
+  transform: scale(1.1);
 }
