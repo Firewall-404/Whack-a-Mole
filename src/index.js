@@ -6,7 +6,7 @@ const startButton = document.querySelector('#start');
 const score = document.querySelector('#score'); // Use querySelector() to get the score element
 const timerDisplay = document.querySelector('#timer'); // use querySelector() to get the timer element.
 
-const hitAudio = new Audio('.assets\hit.mp3');
+//const hitAudio = new Audio('.assets\hit.mp3');
 
 let time = 0;
 let timer;
@@ -204,7 +204,7 @@ function startTimer() {
 */
 //https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
 function whack(event) {
-  hitAudio.play();
+  //hitAudio.play();
   updateScore()
   return points;
 }
@@ -217,7 +217,7 @@ function whack(event) {
 function setEventListeners(){
   moles.forEach(mole => {
     mole.addEventListener('click', whack);
-    mole.addEventListener('click',() => { hitAudio.play()});
+    
   });
   return moles;
 }

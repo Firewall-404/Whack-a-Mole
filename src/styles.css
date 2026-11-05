@@ -1,6 +1,6 @@
 html {
   /*background: url('./assets/background.png') no-repeat center center fixed;*/
-  background: url("farmland.png");
+  background: url("https://github.com/Firewall-404/js-dev-final-capstone-starter-whack-a-mole/blob/main/assets/farmland.png?raw=true") bottom center no-repeat;
   box-sizing: border-box;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -27,8 +27,11 @@ h2 {
 
 #start {
     text-align: center;
-    font-size: 10px;
-    background-color: rgb(140, 0, 255);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    background-color: rgb(0, 89, 255);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
@@ -42,7 +45,7 @@ h2 {
   display: flex;
   flex-wrap: wrap;
   margin: 0 auto;
-  /*cursor: url('./assets/mallet.png'), pointer;*/
+  cursor: url('./assets/mallet.png'), pointer;
 }
 
 .hole {
@@ -67,8 +70,8 @@ h2 {
 
 .mole {
   /*background:url('./assets/mole.png') bottom center no-repeat;*/
-  background:url(assets\mole3.png) bottom center no-repeat;
-  background-size: 40%;
+  background:url("https://github.com/Firewall-404/js-dev-final-capstone-starter-whack-a-mole/blob/main/assets/mole3.png?raw=true") bottom center no-repeat;
+  background-size: 60%;
   position: absolute;
   top: 100%;
   width: 100%;
