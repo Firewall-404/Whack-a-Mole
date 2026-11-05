@@ -27,7 +27,9 @@ h2 {
 
 #start {
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
+    background-color: rgb(140, 0, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 #timer{
