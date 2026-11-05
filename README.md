@@ -19,6 +19,31 @@ This was a fun final project. I was very overwhelmed at first, but after full re
 US-01
 ![US-01](https://github.com/Firewall-404/Whack-a-Mole/blob/main/screenshots/US-01.png?raw=true)
 
+US-02
+![US-02.1](https://github.com/Firewall-404/Whack-a-Mole/blob/main/screenshots/US-02.1.png?raw=true)
+
+![US-02.2](https://github.com/Firewall-404/Whack-a-Mole/blob/main/screenshots/US-02.2.png?raw=true)
+
+US-03
+![US-03.1](https://github.com/Firewall-404/Whack-a-Mole/blob/main/screenshots/US-03.1.png?raw=true)
+
+![US-03.2](https://github.com/Firewall-404/Whack-a-Mole/blob/main/screenshots/US-03.2.png?raw=true)
+
+![US-03.3](https://github.com/Firewall-404/Whack-a-Mole/blob/main/screenshots/US-03.3.png?raw=true)
+
+![US-03.4](https://github.com/Firewall-404/Whack-a-Mole/blob/main/screenshots/US-03.4.png?raw=true)
+
+US-04
+![US-04.1](https://github.com/Firewall-404/Whack-a-Mole/blob/main/screenshots/US-04.1.png?raw=true)
+
+![US-04.2](https://github.com/Firewall-404/Whack-a-Mole/blob/main/screenshots/US-04.2.png?raw=true)
+
+US-05
+![US-05.1](https://github.com/Firewall-404/Whack-a-Mole/blob/main/screenshots/US-05.1.png?raw=true)
+
+US-06
+![US-06.1](https://github.com/Firewall-404/Whack-a-Mole/blob/main/screenshots/US-06.1.png?raw=true)
+
 # Commit history
 
 janse@GameMachine MINGW64 ~/Downloads/js-dev-final-capstone-starter-whack-a-mole (main)
