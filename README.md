@@ -48,9 +48,212 @@ US-06
 
 janse@GameMachine MINGW64 ~/Downloads/js-dev-final-capstone-starter-whack-a-mole (main)
 $ git log
-commit 0c7a6ed623f3a1bba7fd33eaa760572800bd070b (HEAD -> main, origin/main, origin/HEAD)
+commit e05c2e7c2dc92266a81d62f2bbb2de83aae2f0ec (HEAD -> main, origin/main, origin/HEAD)
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 13:19:39 2026 -0600
+
+    screenshots to readme file
+
+commit 7c97fbbb7cd751acb8e6a00868e152c000ee5cdd
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 13:12:58 2026 -0600
+
+    adding all screenshots
+
+commit 67a2636c39b3349788a14fa0355d663aa801d0d1
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 12:58:01 2026 -0600
+
+    testing screenshots
+
+commit b520b9e161d3355525f95c4574f7f33a07690335
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 12:52:47 2026 -0600
+
+    Saving, testing if image loads in readme file
+
+commit 316c9f0267b51a61cf6f9653ecf078deccfbf4a7
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 12:48:32 2026 -0600
+
+    testing screenshots
+
+commit 0c7a6ed623f3a1bba7fd33eaa760572800bd070b
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 01:44:00 2026 -0600
 :
-commit 0c7a6ed623f3a1bba7fd33eaa760572800bd070b (HEAD -> main, origin/main, origin/HEAD)
+commit e05c2e7c2dc92266a81d62f2bbb2de83aae2f0ec (HEAD -> main, origin/main, origin/HEAD)
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 13:19:39 2026 -0600
+
+    screenshots to readme file
+
+commit 7c97fbbb7cd751acb8e6a00868e152c000ee5cdd
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 13:12:58 2026 -0600
+
+    adding all screenshots
+
+commit 67a2636c39b3349788a14fa0355d663aa801d0d1
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 12:58:01 2026 -0600
+
+    testing screenshots
+
+commit b520b9e161d3355525f95c4574f7f33a07690335
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 12:52:47 2026 -0600
+
+    Saving, testing if image loads in readme file
+
+commit 316c9f0267b51a61cf6f9653ecf078deccfbf4a7
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 12:48:32 2026 -0600
+
+    testing screenshots
+
+commit 0c7a6ed623f3a1bba7fd33eaa760572800bd070b
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 01:44:00 2026 -0600
+
+    final commit
+
+commit b74b5b09717fae1b92b7ca1dd0e35286c6256fdf
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 01:28:04 2026 -0600
+
+    adding button fix and images
+
+commit dced13c020a64ae2780023394de0c1d6336afe0b
+Author: Firewall-404 <jansenhannah@yahoo.com>
+:
+commit e05c2e7c2dc92266a81d62f2bbb2de83aae2f0ec (HEAD -> main, origin/main, origin/HEAD)
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 13:19:39 2026 -0600
+
+    screenshots to readme file
+
+commit 7c97fbbb7cd751acb8e6a00868e152c000ee5cdd
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 13:12:58 2026 -0600
+
+    adding all screenshots
+
+commit 67a2636c39b3349788a14fa0355d663aa801d0d1
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 12:58:01 2026 -0600
+
+    testing screenshots
+
+commit b520b9e161d3355525f95c4574f7f33a07690335
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 12:52:47 2026 -0600
+
+    Saving, testing if image loads in readme file
+
+commit 316c9f0267b51a61cf6f9653ecf078deccfbf4a7
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 12:48:32 2026 -0600
+
+    testing screenshots
+
+commit 0c7a6ed623f3a1bba7fd33eaa760572800bd070b
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 01:44:00 2026 -0600
+
+    final commit
+
+commit b74b5b09717fae1b92b7ca1dd0e35286c6256fdf
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 01:28:04 2026 -0600
+
+    adding button fix and images
+
+commit dced13c020a64ae2780023394de0c1d6336afe0b
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 01:05:07 2026 -0600
+
+:
+commit e05c2e7c2dc92266a81d62f2bbb2de83aae2f0ec (HEAD -> main, origin/main, origin/HEAD)
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 13:19:39 2026 -0600
+
+    screenshots to readme file
+
+commit 7c97fbbb7cd751acb8e6a00868e152c000ee5cdd
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 13:12:58 2026 -0600
+
+    adding all screenshots
+
+commit 67a2636c39b3349788a14fa0355d663aa801d0d1
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 12:58:01 2026 -0600
+
+    testing screenshots
+
+commit b520b9e161d3355525f95c4574f7f33a07690335
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 12:52:47 2026 -0600
+
+    Saving, testing if image loads in readme file
+
+commit 316c9f0267b51a61cf6f9653ecf078deccfbf4a7
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 12:48:32 2026 -0600
+
+    testing screenshots
+
+commit 0c7a6ed623f3a1bba7fd33eaa760572800bd070b
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 01:44:00 2026 -0600
+
+    final commit
+
+commit b74b5b09717fae1b92b7ca1dd0e35286c6256fdf
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 01:28:04 2026 -0600
+
+    adding button fix and images
+
+commit dced13c020a64ae2780023394de0c1d6336afe0b
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 01:05:07 2026 -0600
+
+    image testing
+
+:
+commit e05c2e7c2dc92266a81d62f2bbb2de83aae2f0ec (HEAD -> main, origin/main, origin/HEAD)
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 13:19:39 2026 -0600
+
+    screenshots to readme file
+
+commit 7c97fbbb7cd751acb8e6a00868e152c000ee5cdd
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 13:12:58 2026 -0600
+
+    adding all screenshots
+
+commit 67a2636c39b3349788a14fa0355d663aa801d0d1
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 12:58:01 2026 -0600
+
+    testing screenshots
+
+commit b520b9e161d3355525f95c4574f7f33a07690335
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 12:52:47 2026 -0600
+
+    Saving, testing if image loads in readme file
+
+commit 316c9f0267b51a61cf6f9653ecf078deccfbf4a7
+Author: Firewall-404 <jansenhannah@yahoo.com>
+Date:   Thu Nov 5 12:48:32 2026 -0600
+
+    testing screenshots
+
+commit 0c7a6ed623f3a1bba7fd33eaa760572800bd070b
 Author: Firewall-404 <jansenhannah@yahoo.com>
 Date:   Thu Nov 5 01:44:00 2026 -0600
 
@@ -72,557 +275,7 @@ commit 850445556e89eb67e4a2e384c672cf0f78425bcc
 Author: Firewall-404 <jansenhannah@yahoo.com>
 Date:   Thu Nov 5 01:01:35 2026 -0600
 
-    image testing
-
-commit b4298610af995c8222811556c9aa370f0727c597
-Author: Firewall-404 <jansenhannah@yahoo.com>
-Date:   Thu Nov 5 00:55:50 2026 -0600
-
-    adding images
-
-commit 9e5d95c8d23ef6c38838902908abbc32edc7b908
-Author: Firewall-404 <jansenhannah@yahoo.com>
-Date:   Thu Nov 5 00:41:21 2026 -0600
-
-    audio replacing
-
-commit 01fa49af4c111c66667825db90bee4f4da5f0703
-Author: Firewall-404 <jansenhannah@yahoo.com>
-Date:   Thu Nov 5 00:33:31 2026 -0600
-
-    audio
-
-commit 24f0c880e19d542273fa611f5aaf3b2ee6f07635
-Author: Firewall-404 <jansenhannah@yahoo.com>
-Date:   Thu Nov 5 00:27:06 2026 -0600
-
-    new audio
-
-commit 9deafd1ce07b57c4b7041f66551f26ca4125ec78
-Author: Firewall-404 <jansenhannah@yahoo.com>
-Date:   Wed Nov 4 23:57:00 2026 -0600
-
-    new audio
-
-commit c5b7d2d46518b16ac8831210e86142298a27ac0e
-Author: Firewall-404 <jansenhannah@yahoo.com>
-Date:   Wed Nov 4 23:34:39 2026 -0600
-
-    new audio
-
-commit c7406a3124ace0360e6e28e1d49d17557412ea9f
-Author: Firewall-404 <jansenhannah@yahoo.com>
-Date:   Wed Nov 4 23:23:41 2026 -0600
-
-    testing audio
-
-commit fe7c5ce4e9a186a07beb12248c0dfd21167f070d
-Author: Firewall-404 <jansenhannah@yahoo.com>
-Date:   Wed Nov 4 23:18:01 2026 -0600
-
-    testing audio again
-
-commit bcfef5e8b38aeeb226685ec4144c52a863cab5fe
-Author: Firewall-404 <jansenhannah@yahoo.com>
-Date:   Wed Nov 4 23:12:50 2026 -0600
-
-    adding sound to test
-
-commit 1d05de667ccb98194a451567b16a64acf38db1e6
-Author: Firewall-404 <jansenhannah@yahoo.com>
-Date:   Wed Nov 4 23:00:04 2026 -0600
-
-    stuck in deployment queue status
-
-commit 4df7847fb17c093a932158679d7f404674f2c05b
-Author: Firewall-404 <jansenhannah@yahoo.com>
-Date:   Wed Nov 4 22:46:13 2026 -0600
-
-    changing size to continue testing
-
-commit ef3f1f157d325478a0828ec364cec40839af2114
-Author: Firewall-404 <jansenhannah@yahoo.com>
-Date:   Wed Nov 4 22:43:23 2026 -0600
-
-    updating while debugging button
-
-commit 0f7d149affca6f3701edff94a41cf43bc42baa73
-Author: Firewall-404 <jansenhannah@yahoo.com>
-Date:   Wed Nov 4 22:06:35 2026 -0600
-
-    saving point verifying event listeners before starting US-05
-
-commit 696ccc419f46edb883a4268c0bf50cd3ab0e152c
-Author: Firewall-404 <jansenhannah@yahoo.com>
-Date:   Wed Nov 4 21:38:07 2026 -0600
-
-    Commiting due to progress and reccommendation in README instructions
-
-commit fa343533e29d5a3e976bb07bf7ab4a1ed011edbe
-Author: Firewall-404 <jansenhannah@yahoo.com>
-Date:   Wed Nov 4 21:11:09 2026 -0600
-
-    save progress in js file
-
-commit 94041621e7248605a2c4857b35d5d46d4455f96f
-Author: Firewall-404 <jansenhannah@yahoo.com>
-Date:   Wed Nov 4 19:44:56 2026 -0600
-
-    Finishing majority of html guided by user story
-
-commit 79281be4f433f384fcbd4f180f48a6715408708d
-Author: Abdul Manaf <cheggskillsinternal@gmail.com>
-Date:   Tue Jan 27 20:10:55 2026 +0530
-
-    Update README.md
-    
-    Updating the "README.md" file as per the LM team suggestions.
-
-commit 33b993fc15674464cf33e9857ba8298e2c04da38
-Author: Kunga Jamphel <81985839+kungajmpzz@users.noreply.github.com>
-Date:   Tue Dec 24 23:10:58 2024 +0530
-
-    Update index.js (startGame instructions)
-
-commit c31f686497662351ff4f7887ebf17a7d8ba90968
-Author: Hou Chia <82906853+hchia444@users.noreply.github.com>
-Date:   Thu Mar 14 21:08:32 2024 -0400
-
-    Update README.md
-
-commit 96035e0d6923e5881185d7d8c0c115c2f3cfa27a
-Author: hchia444 <hchia@chegg.com>
-Date:   Wed Jun 21 23:29:00 2023 -0400
-
-    Add package-lock file
-
-commit e6954069eedd97bc3af705ed36aa1ed989a6cd12
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Wed Nov 23 08:24:31 2022 -0600
-
-    Replace waitFor -> waitForTimeout in unit test
-
-commit dfa1615f1d0ed58ea2ae3b235a08663db3183600
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Wed Nov 16 14:49:53 2022 -0600
-
-    Update index.js
-
-commit 3e61953d28c8ced4108bbe6344f25c52209a4f76
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Wed Nov 16 14:19:46 2022 -0600
-
-    Update README.md
-
-commit 937a3a27e2739d3c1d501b911bbf2eb06ca8463a
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Wed Nov 16 11:19:01 2022 -0600
-
-    remove timer unit test
-
-commit f6dfbc884f1a1cf611bb707cbe95e2918628cc07
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Tue Oct 25 08:47:32 2022 -0500
-
-    Update package.json
-
-commit fed170027255eda5b5a6f32a7a68972023e88d8b
-Merge: 69fc884 ac98304
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Fri Jun 10 09:50:42 2022 -0500
-
-    Merge pull request #2 from Thinkful-Ed/DB_060622
-    
-    Db 060622
-
-commit ac98304de3c940f3068fd32a38cf2069604b2f16
-Merge: 69fc884 718aba8
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Fri Jun 10 09:44:28 2022 -0500
-
-    Merge pull request #1 from bmn4d/patch-1
-    
-    Tech edit README
-
-commit 718aba86d9fc446ce69bbf88421d6212389973f2
-Author: Dana <bm4n4d@gmail.com>
-Date:   Fri Jun 10 12:06:24 2022 +0200
-
-    Tech edit README
-
-commit 69fc884f4329df9072cbb6d00cf4bc11db289d5a
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Thu May 12 11:37:15 2022 -0500
-
-    Update README.md
-
-commit 4550d2c7a06b3e469575ef327b05113364270f11
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Tue Apr 19 13:18:11 2022 -0500
-
-    Create .gitignore
-
-commit a8a6001b5e9400436a94bb333582a40d0edcae4f
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Tue Apr 19 13:17:02 2022 -0500
-
-    Update README.md
-
-commit 9f60a9be7143c6b9ac631819cc4be6d7de82ea19
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Apr 4 00:35:26 2022 -0500
-
-    Update README.md
-
-commit cd18a52e944796a69558a9f47d5515c22a789665
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Wed Mar 30 12:01:02 2022 -0600
-
-    update readme
-
-commit a5cac7ad8b14fc671a55674d15bd8707bb6fd4cd
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Wed Mar 30 12:00:32 2022 -0600
-
-    update README.md
-
-commit c9a3351643393725c9c4501381470effff913bc6
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Wed Mar 30 11:58:59 2022 -0600
-
-    update score test
-
-commit 6a3489c7b221cfede59ff2c4c9e4f3aa707df3da
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Tue Mar 29 16:13:19 2022 -0600
-
-    Update README.md
-
-commit 933db323c2f890b072a2cd6c3cbaa5b184c7e92d
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Tue Mar 29 16:08:26 2022 -0600
-
-    Update styles.css
-
-commit 81f52e4934473a19e8f289b739502917d09ccf87
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Tue Mar 29 16:05:17 2022 -0600
-
-    Update README.md
-
-commit 646bbb908ab6de0365ebe6efdabdf6db1e3c95d8
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Tue Mar 29 01:06:18 2022 -0600
-
-    Update README.md
-
-commit be8a36e9bc2a1b917be3557b2d77e0d9cf99a951
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 16:06:33 2022 -0600
-
-    Update starter files
-
-commit fcfe23446ecfb8c017ddc37812ad366f9fc48b73
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 16:01:08 2022 -0600
-
-    Update CSS file
-
-commit 89ce68f4c513f9238952628bf4fe66dcc6e3fb33
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:58:25 2022 -0600
-
-    Add files via upload
-
-commit 1175a5141d78bdcff761d8a87bcdf5ce264ea44b
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:55:29 2022 -0600
-
-    Add files via upload
-
-commit 9fb25ce23f21ba1e5b2a64830c439543175262e4
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:46:12 2022 -0600
-
-    Update README.md
-
-commit 7e01f24730cd6ef4f72186caca3aa9717ec5a1cb
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:45:31 2022 -0600
-
-    Initial commit
-(END)
-commit fcfe23446ecfb8c017ddc37812ad366f9fc48b73
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 16:01:08 2022 -0600
-
-    Update CSS file
-
-commit 89ce68f4c513f9238952628bf4fe66dcc6e3fb33
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:58:25 2022 -0600
-
-    Add files via upload
-
-commit 1175a5141d78bdcff761d8a87bcdf5ce264ea44b
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:55:29 2022 -0600
-
-    Add files via upload
-
-commit 9fb25ce23f21ba1e5b2a64830c439543175262e4
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:46:12 2022 -0600
-
-    Update README.md
-
-commit 7e01f24730cd6ef4f72186caca3aa9717ec5a1cb
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:45:31 2022 -0600
-
-    Initial commit
-~
-~
-~
-(END)
-commit fcfe23446ecfb8c017ddc37812ad366f9fc48b73
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 16:01:08 2022 -0600
-
-    Update CSS file
-
-commit 89ce68f4c513f9238952628bf4fe66dcc6e3fb33
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:58:25 2022 -0600
-
-    Add files via upload
-
-commit 1175a5141d78bdcff761d8a87bcdf5ce264ea44b
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:55:29 2022 -0600
-
-    Add files via upload
-
-commit 9fb25ce23f21ba1e5b2a64830c439543175262e4
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:46:12 2022 -0600
-
-    Update README.md
-
-commit 7e01f24730cd6ef4f72186caca3aa9717ec5a1cb
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:45:31 2022 -0600
-
-    Initial commit
-~
-~
-~
-~
-(END)
-commit fcfe23446ecfb8c017ddc37812ad366f9fc48b73
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 16:01:08 2022 -0600
-
-    Update CSS file
-
-commit 89ce68f4c513f9238952628bf4fe66dcc6e3fb33
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:58:25 2022 -0600
-
-    Add files via upload
-
-commit 1175a5141d78bdcff761d8a87bcdf5ce264ea44b
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:55:29 2022 -0600
-
-    Add files via upload
-
-commit 9fb25ce23f21ba1e5b2a64830c439543175262e4
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:46:12 2022 -0600
-
-    Update README.md
-
-commit 7e01f24730cd6ef4f72186caca3aa9717ec5a1cb
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:45:31 2022 -0600
-
-    Initial commit
-~
-~
-~
-~
-~
-(END)
-commit fcfe23446ecfb8c017ddc37812ad366f9fc48b73
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 16:01:08 2022 -0600
-
-    Update CSS file
-
-commit 89ce68f4c513f9238952628bf4fe66dcc6e3fb33
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:58:25 2022 -0600
-
-    Add files via upload
-
-commit 1175a5141d78bdcff761d8a87bcdf5ce264ea44b
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:55:29 2022 -0600
-
-    Add files via upload
-
-commit 9fb25ce23f21ba1e5b2a64830c439543175262e4
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:46:12 2022 -0600
-
-    Update README.md
-
-commit 7e01f24730cd6ef4f72186caca3aa9717ec5a1cb
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:45:31 2022 -0600
-
-    Initial commit
-~
-~
-~
-~
-~
-~
-(END)
-commit fcfe23446ecfb8c017ddc37812ad366f9fc48b73
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 16:01:08 2022 -0600
-
-    Update CSS file
-
-commit 89ce68f4c513f9238952628bf4fe66dcc6e3fb33
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:58:25 2022 -0600
-
-    Add files via upload
-
-commit 1175a5141d78bdcff761d8a87bcdf5ce264ea44b
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:55:29 2022 -0600
-
-    Add files via upload
-
-commit 9fb25ce23f21ba1e5b2a64830c439543175262e4
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:46:12 2022 -0600
-
-    Update README.md
-
-commit 7e01f24730cd6ef4f72186caca3aa9717ec5a1cb
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:45:31 2022 -0600
-
-    Initial commit
-~
-~
-~
-~
-~
-~
-~
-(END)
-commit fcfe23446ecfb8c017ddc37812ad366f9fc48b73
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 16:01:08 2022 -0600
-
-    Update CSS file
-
-commit 89ce68f4c513f9238952628bf4fe66dcc6e3fb33
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:58:25 2022 -0600
-
-    Add files via upload
-
-commit 1175a5141d78bdcff761d8a87bcdf5ce264ea44b
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:55:29 2022 -0600
-
-    Add files via upload
-
-commit 9fb25ce23f21ba1e5b2a64830c439543175262e4
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:46:12 2022 -0600
-
-    Update README.md
-
-commit 7e01f24730cd6ef4f72186caca3aa9717ec5a1cb
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:45:31 2022 -0600
-
-    Initial commit
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-(END)
-commit fcfe23446ecfb8c017ddc37812ad366f9fc48b73
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 16:01:08 2022 -0600
-
-    Update CSS file
-
-commit 89ce68f4c513f9238952628bf4fe66dcc6e3fb33
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:58:25 2022 -0600
-
-    Add files via upload
-
-commit 1175a5141d78bdcff761d8a87bcdf5ce264ea44b
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:55:29 2022 -0600
-
-    Add files via upload
-
-commit 9fb25ce23f21ba1e5b2a64830c439543175262e4
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:46:12 2022 -0600
-
-    Update README.md
-
-commit 7e01f24730cd6ef4f72186caca3aa9717ec5a1cb
-Author: Gabriel Sanchez <gabrielsz87@gmail.com>
-Date:   Mon Mar 28 15:45:31 2022 -0600
-
-    Initial commit
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-(END)
+:
 
 # Whack-a-Mole!
 
