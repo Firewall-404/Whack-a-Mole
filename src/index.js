@@ -6,7 +6,7 @@ const startButton = document.querySelector('#start');
 const score = document.querySelector('#score'); // Use querySelector() to get the score element
 const timerDisplay = document.querySelector('#timer'); // use querySelector() to get the timer element.
 
-const hitAudio = new Audio('./assets/hit.mp3');
+const oofAudio = new Audio('C:\Users\janse\Downloads\js-dev-final-capstone-starter-whack-a-mole\assets\Oof - Roblox - QuickSounds.com.mp3');
 
 let time = 0;
 let timer;
@@ -204,7 +204,7 @@ function startTimer() {
 */
 //https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
 function whack(event) {
-  hitAudio.play();
+  oofAudio.play();
   updateScore()
   return points;
 }
